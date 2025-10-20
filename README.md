@@ -72,7 +72,7 @@ To test the Static Website Masterpiece, follow these steps:
 -------------
 Here are some screenshots of the Static Website Masterpiece:
 ### Desktop View
-![Screenshot of the Softify website's homepage](assets/softify%20screenshot.jpg)
+![Screenshot of the Spotify website's homepage](assets/spotify%20screenshot.png)
 
 
 📦 API Reference
